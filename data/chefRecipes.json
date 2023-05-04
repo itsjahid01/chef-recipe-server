@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "chefImage": "https://example.com/chef1.jpg",
+      "chefImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgA66hksnbCo0_oSKoh3-2dpE5qU7HdS-oCzUomFN4IypJ3AiZ",
       "chefName": "Jane Smith",
       "bio": "Jane Smith is a professional chef with over 15 years of experience in the culinary industry. She has worked in some of the world's most renowned restaurants and is known for her creative and innovative cooking style.",
       "likes": 10000,
@@ -30,7 +30,7 @@
     },
     {
       "id": 2,
-      "chefImage": "https://example.com/chef2.jpg",
+      "chefImage": "https://cdn.britannica.com/10/202010-050-397FAB8B/Anthony-Bourdain-2013.jpg",
       "chefName": "John Doe",
       "bio": "John Doe is a passionate chef with a focus on sustainable and locally sourced ingredients. He has worked in restaurants around the world and has a keen interest in developing new and exciting flavor combinations.",
       "likes": 7500,
@@ -59,7 +59,7 @@
     },
     {
       "id": 3,
-      "chefImage": "https://example.com/chef3.jpg",
+      "chefImage": "https://fermentationassociation.org/wp-content/uploads/2020/05/DavidChang.jpg",
       "chefName": "Emily Chen",
       "bio": "Emily Chen is a talented young chef who has already made a name for herself in the culinary world. She has a passion for exploring different cuisines and ingredients, and her dishes are known for their bold flavors and beautiful presentation.",
       "likes": 5000,
@@ -88,7 +88,7 @@
     },
     {
       "id": 4,
-      "chefImage": "https://example.com/chef4.jpg",
+      "chefImage": "https://content.api.news/v3/images/bin/5a37472d9cb5c5c8e103c5ba8ce81837",
       "chefName": "David Kim",
       "bio": "David Kim is a classically trained chef with a focus on French cuisine. He has worked in some of the most prestigious restaurants in Paris and New York and is known for his meticulous attention to detail and elegant plating.",
       "likes": 8000,
@@ -117,7 +117,7 @@
     },
     {
       "id": 5,
-      "chefImage": "https://example.com/chef5.jpg",
+      "chefImage": "https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,q_auto,w_720/guop99zffhuobgkavack.jpg",
       "chefName": "Maria Rodriguez",
       "bio": "Maria Rodriguez is a chef who specializes in Latin American cuisine. She grew up in a family of cooks and has been honing her skills in the kitchen since she was a child. Her dishes are a blend of traditional flavors and modern techniques.",
       "likes": 6000,
@@ -146,7 +146,7 @@
     },
     {
       "id": 6,
-      "chefImage": "https://example.com/chef6.jpg",
+      "chefImage": "https://media.tegna-media.com/assets/WTHR/images/214c7abc-11f9-4876-bc7b-f15d3285984e/214c7abc-11f9-4876-bc7b-f15d3285984e_1140x641.jpg",
       "chefName": "Michael Nguyen",
       "bio": "Michael Nguyen is a chef who draws inspiration from his Vietnamese heritage and his travels around the world. He is known for his bold and flavorful dishes that combine the best of East and West.",
       "likes": 9000,
