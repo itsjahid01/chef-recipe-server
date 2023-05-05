@@ -40,19 +40,19 @@
         {
             "recipeName": "Spicy Chicken Curry",
             "ingredients": ["chicken thighs", "onion", "garlic", "ginger", "tomatoes", "curry powder", "coconut milk", "chili peppers", "cilantro"],
-            "cookingMethod": "1. In a large pot or Dutch oven, heat oil over medium-high heat. Add chicken and brown on all sides. Remove chicken from pot and set aside. 2. Add onion, garlic, and ginger to the pot and sauté until onion is translucent. 3. Add curry powder and chili peppers and cook for 1-2 minutes. 4. Add tomatoes and stir to combine. 5. Return chicken to the pot and add enough coconut milk to cover chicken. 6. Bring to a boil, then reduce heat and simmer for 30-45 minutes, or until chicken is cooked through. 7. Garnish with chopped cilantro before serving.",
+            "cookingMethod": "In a large pot or Dutch oven, heat oil over medium-high heat. Add chicken and brown on all sides. Remove chicken from pot and set aside. Add onion, garlic, and ginger to the pot and sauté until onion is translucent. Add curry powder and chili peppers and cook for 1-2 minutes. Add tomatoes and stir to combine.Return chicken to the pot and add enough coconut milk to cover chicken. Bring to a boil, then reduce heat and simmer for 30-45 minutes, or until chicken is cooked through. Garnish with chopped cilantro before serving.",
             "rating": 4.7
           },
           {
             "recipeName": "Mushroom Risotto",
             "ingredients": ["arborio rice", "mushrooms", "onion", "garlic", "vegetable broth", "butter", "parmesan cheese", "white wine"],
-            "cookingMethod": "1. In a large saucepan, sauté the onions and garlic until translucent. 2. Add the mushrooms and continue cooking until they release their liquid and start to brown. 3. Add the rice and stir until coated in the oil. 4. Add a ladleful of hot vegetable broth and stir until it is absorbed. 5. Continue adding broth, one ladleful at a time, stirring constantly, until the rice is cooked but still slightly firm. 6. Stir in the butter, parmesan cheese, and white wine. 7. Serve immediately.",
+            "cookingMethod": "In a large saucepan, sauté the onions and garlic until translucent.Add the mushrooms and continue cooking until they release their liquid and start to brown. Add the rice and stir until coated in the oil.Add a ladleful of hot vegetable broth and stir until it is absorbed. Continue adding broth, one ladleful at a time, stirring constantly, until the rice is cooked but still slightly firm. Stir in the butter, parmesan cheese, and white wine.Serve immediately.",
             "rating": 4.5
           },
           {
             "recipeName": "Classic Lasagna",
             "ingredients": ["lasagna noodles", "ground beef", "onion", "garlic", "canned tomatoes", "tomato paste", "ricotta cheese", "mozzarella cheese", "parmesan cheese"],
-            "cookingMethod": "1. Cook lasagna noodles according to package directions. Drain and set aside. 2. In a large skillet, brown ground beef with onion and garlic. Drain off any excess fat. 3. Add canned tomatoes and tomato paste to the skillet and stir to combine. 4. In a separate bowl, mix together ricotta cheese, mozzarella cheese, and parmesan cheese. 5. In a 9x13 inch baking dish, layer the lasagna noodles, meat sauce, and cheese mixture. Repeat layers until all ingredients are used, ending with a layer of cheese on top. 6. Cover with foil and bake at 375°F for 25 minutes. 7. Remove foil and bake for an additional 25-30 minutes, or until cheese is melted and bubbly.",
+            "cookingMethod": " Cook lasagna noodles according to package directions. Drain and set aside.In a large skillet, brown ground beef with onion and garlic. Drain off any excess fat.  Add canned tomatoes and tomato paste to the skillet and stir to combine. In a separate bowl, mix together ricotta cheese, mozzarella cheese, and parmesan cheese. In a 9x13 inch baking dish, layer the lasagna noodles, meat sauce, and cheese mixture. Repeat layers until all ingredients are used, ending with a layer of cheese on top. Cover with foil and bake at 375°F for 25 minutes. Remove foil and bake for an additional 25-30 minutes, or until cheese is melted and bubbly.",
             "rating": 4.8
           }
       ]
@@ -67,23 +67,23 @@
       "yearsExperience": 5,
       "recipes":[
         {
-            "recipeName": "Spaghetti Bolognese",
-            "ingredients": ["spaghetti", "ground beef", "onion", "garlic", "crushed tomatoes"],
-            "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet over medium-high heat. 3. Add onion and garlic, and cook until softened. 4. Add crushed tomatoes and simmer for 10-15 minutes. 5. Serve sauce over spaghetti.",
-            "rating": 4.5
-          },
-          {
-            "recipeName": "Chicken Tikka Masala",
-            "ingredients": ["chicken breasts", "yogurt", "spices (garam masala, cumin, paprika)", "tomato sauce", "cream"],
-            "cookingMethod": "1. Marinate chicken in yogurt and spices for 30 minutes to 1 hour. 2. Grill or bake chicken until cooked through. 3. In a saucepan, combine tomato sauce and cream and simmer for 10 minutes. 4. Add cooked chicken to sauce and simmer for 5-10 minutes. 5. Serve over rice.",
-            "rating": 4.8
-          },
-          {
-            "recipeName": "Vegetable Stir Fry",
-            "ingredients": ["broccoli", "carrots", "mushrooms", "onion", "soy sauce"],
-            "cookingMethod": "1. Cut vegetables into bite-sized pieces. 2. Heat oil in a wok or large skillet over high heat. 3. Add vegetables and stir fry for 3-5 minutes. 4. Add soy sauce and stir fry for an additional 1-2 minutes. 5. Serve over rice or noodles.",
-            "rating": 4.3
-          }
+          "recipeName": "Spaghetti Bolognese",
+          "ingredients": ["spaghetti", "ground beef", "onion", "garlic", "crushed tomatoes"],
+          "cookingMethod": " Cook spaghetti according to package instructions.  Brown ground beef in a large skillet over medium-high heat.  Add onion and garlic, and cook until softened.  Add crushed tomatoes and simmer for 10-15 minutes. Serve sauce over spaghetti.",
+          "rating": 4.5
+        },
+        {
+          "recipeName": "Chicken Tikka Masala",
+          "ingredients": ["chicken breasts", "yogurt", "spices (garam masala, cumin, paprika)", "tomato sauce", "cream"],
+          "cookingMethod": "Marinate chicken in yogurt and spices for 30 minutes to 1 hour.  Grill or bake chicken until cooked through. In a saucepan, combine tomato sauce and cream and simmer for 10 minutes.Add cooked chicken to sauce and simmer for 5-10 minutes. Serve over rice.",
+          "rating": 4.8
+        },
+        {
+          "recipeName": "Vegetable Stir Fry",
+          "ingredients": ["broccoli", "carrots", "mushrooms", "onion", "soy sauce"],
+          "cookingMethod": "Cut vegetables into bite-sized pieces. Heat oil in a wok or large skillet over high heat. Add vegetables and stir fry for 3-5 minutes. Add soy sauce and stir fry for an additional 1-2 minutes. Serve over rice or noodles.",
+          "rating": 4.3
+        }
       ]
     },
     {
@@ -98,19 +98,19 @@
         {
             "recipeName": "Spaghetti Bolognese",
             "ingredients": ["spaghetti", "ground beef", "onion", "garlic", "crushed tomatoes"],
-            "cookingMethod": "1. Cook spaghetti according to package instructions. 2. Brown ground beef in a large skillet over medium-high heat. 3. Add onion and garlic, and cook until softened. 4. Add crushed tomatoes and simmer for 10-15 minutes. 5. Serve sauce over spaghetti.",
+            "cookingMethod": " Cook spaghetti according to package instructions.  Brown ground beef in a large skillet over medium-high heat.  Add onion and garlic, and cook until softened.  Add crushed tomatoes and simmer for 10-15 minutes. Serve sauce over spaghetti.",
             "rating": 4.5
           },
           {
             "recipeName": "Chicken Tikka Masala",
             "ingredients": ["chicken breasts", "yogurt", "spices (garam masala, cumin, paprika)", "tomato sauce", "cream"],
-            "cookingMethod": "1. Marinate chicken in yogurt and spices for 30 minutes to 1 hour. 2. Grill or bake chicken until cooked through. 3. In a saucepan, combine tomato sauce and cream and simmer for 10 minutes. 4. Add cooked chicken to sauce and simmer for 5-10 minutes. 5. Serve over rice.",
+            "cookingMethod": "Marinate chicken in yogurt and spices for 30 minutes to 1 hour.  Grill or bake chicken until cooked through. In a saucepan, combine tomato sauce and cream and simmer for 10 minutes.Add cooked chicken to sauce and simmer for 5-10 minutes. Serve over rice.",
             "rating": 4.8
           },
           {
             "recipeName": "Vegetable Stir Fry",
             "ingredients": ["broccoli", "carrots", "mushrooms", "onion", "soy sauce"],
-            "cookingMethod": "1. Cut vegetables into bite-sized pieces. 2. Heat oil in a wok or large skillet over high heat. 3. Add vegetables and stir fry for 3-5 minutes. 4. Add soy sauce and stir fry for an additional 1-2 minutes. 5. Serve over rice or noodles.",
+            "cookingMethod": "Cut vegetables into bite-sized pieces. Heat oil in a wok or large skillet over high heat. Add vegetables and stir fry for 3-5 minutes. Add soy sauce and stir fry for an additional 1-2 minutes. Serve over rice or noodles.",
             "rating": 4.3
           }
       ]
@@ -125,23 +125,23 @@
       "yearsExperience": 8,
       "recipes":[
         {
-            "recipeName": "Spicy Chicken Curry",
-            "ingredients": ["chicken thighs", "onion", "garlic", "ginger", "tomatoes", "curry powder", "coconut milk", "chili peppers", "cilantro"],
-            "cookingMethod": "1. In a large pot or Dutch oven, heat oil over medium-high heat. Add chicken and brown on all sides. Remove chicken from pot and set aside. 2. Add onion, garlic, and ginger to the pot and sauté until onion is translucent. 3. Add curry powder and chili peppers and cook for 1-2 minutes. 4. Add tomatoes and stir to combine. 5. Return chicken to the pot and add enough coconut milk to cover chicken. 6. Bring to a boil, then reduce heat and simmer for 30-45 minutes, or until chicken is cooked through. 7. Garnish with chopped cilantro before serving.",
-            "rating": 4.7
-          },
-          {
-            "recipeName": "Mushroom Risotto",
-            "ingredients": ["arborio rice", "mushrooms", "onion", "garlic", "vegetable broth", "butter", "parmesan cheese", "white wine"],
-            "cookingMethod": "1. In a large saucepan, sauté the onions and garlic until translucent. 2. Add the mushrooms and continue cooking until they release their liquid and start to brown. 3. Add the rice and stir until coated in the oil. 4. Add a ladleful of hot vegetable broth and stir until it is absorbed. 5. Continue adding broth, one ladleful at a time, stirring constantly, until the rice is cooked but still slightly firm. 6. Stir in the butter, parmesan cheese, and white wine. 7. Serve immediately.",
-            "rating": 4.5
-          },
-          {
-            "recipeName": "Classic Lasagna",
-            "ingredients": ["lasagna noodles", "ground beef", "onion", "garlic", "canned tomatoes", "tomato paste", "ricotta cheese", "mozzarella cheese", "parmesan cheese"],
-            "cookingMethod": "1. Cook lasagna noodles according to package directions. Drain and set aside. 2. In a large skillet, brown ground beef with onion and garlic. Drain off any excess fat. 3. Add canned tomatoes and tomato paste to the skillet and stir to combine. 4. In a separate bowl, mix together ricotta cheese, mozzarella cheese, and parmesan cheese. 5. In a 9x13 inch baking dish, layer the lasagna noodles, meat sauce, and cheese mixture. Repeat layers until all ingredients are used, ending with a layer of cheese on top. 6. Cover with foil and bake at 375°F for 25 minutes. 7. Remove foil and bake for an additional 25-30 minutes, or until cheese is melted and bubbly.",
-            "rating": 4.8
-          }
+          "recipeName": "Spicy Chicken Curry",
+          "ingredients": ["chicken thighs", "onion", "garlic", "ginger", "tomatoes", "curry powder", "coconut milk", "chili peppers", "cilantro"],
+          "cookingMethod": "In a large pot or Dutch oven, heat oil over medium-high heat. Add chicken and brown on all sides. Remove chicken from pot and set aside. Add onion, garlic, and ginger to the pot and sauté until onion is translucent. Add curry powder and chili peppers and cook for 1-2 minutes. Add tomatoes and stir to combine.Return chicken to the pot and add enough coconut milk to cover chicken. Bring to a boil, then reduce heat and simmer for 30-45 minutes, or until chicken is cooked through. Garnish with chopped cilantro before serving.",
+          "rating": 4.7
+        },
+        {
+          "recipeName": "Mushroom Risotto",
+          "ingredients": ["arborio rice", "mushrooms", "onion", "garlic", "vegetable broth", "butter", "parmesan cheese", "white wine"],
+          "cookingMethod": "In a large saucepan, sauté the onions and garlic until translucent.Add the mushrooms and continue cooking until they release their liquid and start to brown. Add the rice and stir until coated in the oil.Add a ladleful of hot vegetable broth and stir until it is absorbed. Continue adding broth, one ladleful at a time, stirring constantly, until the rice is cooked but still slightly firm. Stir in the butter, parmesan cheese, and white wine.Serve immediately.",
+          "rating": 4.5
+        },
+        {
+          "recipeName": "Classic Lasagna",
+          "ingredients": ["lasagna noodles", "ground beef", "onion", "garlic", "canned tomatoes", "tomato paste", "ricotta cheese", "mozzarella cheese", "parmesan cheese"],
+          "cookingMethod": " Cook lasagna noodles according to package directions. Drain and set aside.In a large skillet, brown ground beef with onion and garlic. Drain off any excess fat.  Add canned tomatoes and tomato paste to the skillet and stir to combine. In a separate bowl, mix together ricotta cheese, mozzarella cheese, and parmesan cheese. In a 9x13 inch baking dish, layer the lasagna noodles, meat sauce, and cheese mixture. Repeat layers until all ingredients are used, ending with a layer of cheese on top. Cover with foil and bake at 375°F for 25 minutes. Remove foil and bake for an additional 25-30 minutes, or until cheese is melted and bubbly.",
+          "rating": 4.8
+        }
       ]
     },
     {
