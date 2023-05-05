@@ -4,6 +4,8 @@ const port = 3000
 const cors=require('cors');
 const chefRecipes=require('./data/chefRecipes.json')
 
+app.use(cors());
+
 app.get('/', (req, res) => {
   res.send('Hello world!!!!')
 })
