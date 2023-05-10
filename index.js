@@ -7,7 +7,7 @@ const chefRecipes=require('./data/chefRecipes.json')
 app.use(cors());
 
 app.get('/', (req, res) => {
-  res.send('Hello world!!!!')
+  res.send('Welcome to my server!!!!')
 })
 
 app.get('/chefRecipes',(req,res)=>{

@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "chefImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgA66hksnbCo0_oSKoh3-2dpE5qU7HdS-oCzUomFN4IypJ3AiZ",
+      "chefImage": "https://images.lifestyleasia.com/wp-content/uploads/sites/3/2021/06/01125429/129305145_378999043204329_6799470558229249305_n.jpg",
       "chefName": "Jane Smith",
       "bio": "Jane Smith is a professional chef with over 15 years of experience in the culinary industry. She has worked in some of the world's most renowned restaurants and is known for her creative and innovative cooking style.",
       "likes": 10000,
@@ -10,18 +10,21 @@
       "recipes": [
         {
           "recipeName": "Grilled Salmon",
+          "recipePic": "https://thekitchengirl.com/wp-content/uploads/Grilled-Salmon-a_19-1.jpg",
           "ingredients": ["salmon", "lemon", "olive oil", "salt", "pepper"],
           "cookingMethod": "Preheat grill to high heat. Brush salmon with olive oil and season with salt and pepper. Grill for 6-8 minutes per side, or until cooked through. Squeeze lemon over salmon before serving.",
           "rating": 4.8
         },
         {
           "recipeName": "Risotto with Mushrooms",
+          "recipePic": "https://www.allrecipes.com/thmb/Pow6PE9UyushNDB4wutXNnmriX8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/85389-gourmet-mushroom-risotto-86-7a2d218f53e94ccfaecc69b6fd93cab8.jpg",
           "ingredients": ["arborio rice", "mushrooms", "onion", "garlic", "parmesan cheese"],
           "cookingMethod": "In a large saucepan, sauté the onions and garlic until translucent. Add the rice and stir until coated in the oil. Add a ladleful of hot chicken broth and stir until it is absorbed. Continue adding broth, one ladleful at a time, stirring constantly, until the rice is cooked but still slightly firm. Stir in the mushrooms and parmesan cheese.",
           "rating": 4.6
         },
         {
           "recipeName": "Beef Tenderloin with Red Wine Sauce",
+          "recipePic": "https://images-gmi-pmc.edge-generalmills.com/190695cf-371e-4dfd-b47f-c0053b9496c5.jpg",
           "ingredients": ["beef tenderloin", "butter", "shallot", "garlic", "red wine"],
           "cookingMethod": "Preheat oven to 400°F. Season the beef with salt and pepper. Heat butter in an ovenproof skillet over medium-high heat. Add the beef and sear until browned on all sides. Transfer skillet to oven and roast beef for 15-20 minutes, or until cooked to desired doneness. Remove the beef from the skillet and let it rest. Add shallots and garlic to the skillet and cook until soft. Add red wine and cook until it is reduced by half. Season with salt and pepper. Slice the beef and serve with the red wine sauce.",
           "rating": 4.9
@@ -39,18 +42,21 @@
       "recipes":[
         {
             "recipeName": "Spicy Chicken Curry",
+            "recipePic": "https://www.foodandwine.com/thmb/8YAIANQTZnGpVWj2XgY0dYH1V4I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/spicy-chicken-curry-FT-RECIPE0321-58f84fdf7b484e7f86894203eb7834e7.jpg",
             "ingredients": ["chicken thighs", "onion", "garlic", "ginger", "tomatoes", "curry powder", "coconut milk", "chili peppers", "cilantro"],
             "cookingMethod": "In a large pot or Dutch oven, heat oil over medium-high heat. Add chicken and brown on all sides. Remove chicken from pot and set aside. Add onion, garlic, and ginger to the pot and sauté until onion is translucent. Add curry powder and chili peppers and cook for 1-2 minutes. Add tomatoes and stir to combine.Return chicken to the pot and add enough coconut milk to cover chicken. Bring to a boil, then reduce heat and simmer for 30-45 minutes, or until chicken is cooked through. Garnish with chopped cilantro before serving.",
             "rating": 4.7
           },
           {
             "recipeName": "Mushroom Risotto",
+            "recipePic": "https://www.allrecipes.com/thmb/Pow6PE9UyushNDB4wutXNnmriX8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/85389-gourmet-mushroom-risotto-86-7a2d218f53e94ccfaecc69b6fd93cab8.jpg",
             "ingredients": ["arborio rice", "mushrooms", "onion", "garlic", "vegetable broth", "butter", "parmesan cheese", "white wine"],
             "cookingMethod": "In a large saucepan, sauté the onions and garlic until translucent.Add the mushrooms and continue cooking until they release their liquid and start to brown. Add the rice and stir until coated in the oil.Add a ladleful of hot vegetable broth and stir until it is absorbed. Continue adding broth, one ladleful at a time, stirring constantly, until the rice is cooked but still slightly firm. Stir in the butter, parmesan cheese, and white wine.Serve immediately.",
             "rating": 4.5
           },
           {
             "recipeName": "Classic Lasagna",
+            "recipePic": "https://i.ytimg.com/vi/ztQZJ6eyaFg/maxresdefault.jpg",
             "ingredients": ["lasagna noodles", "ground beef", "onion", "garlic", "canned tomatoes", "tomato paste", "ricotta cheese", "mozzarella cheese", "parmesan cheese"],
             "cookingMethod": " Cook lasagna noodles according to package directions. Drain and set aside.In a large skillet, brown ground beef with onion and garlic. Drain off any excess fat.  Add canned tomatoes and tomato paste to the skillet and stir to combine. In a separate bowl, mix together ricotta cheese, mozzarella cheese, and parmesan cheese. In a 9x13 inch baking dish, layer the lasagna noodles, meat sauce, and cheese mixture. Repeat layers until all ingredients are used, ending with a layer of cheese on top. Cover with foil and bake at 375°F for 25 minutes. Remove foil and bake for an additional 25-30 minutes, or until cheese is melted and bubbly.",
             "rating": 4.8
@@ -68,18 +74,22 @@
       "recipes":[
         {
           "recipeName": "Spaghetti Bolognese",
+          "recipePic": "https://www.errenskitchen.com/wp-content/uploads/2018/08/Spaghetti-Bolognese-1-3.jpg",
           "ingredients": ["spaghetti", "ground beef", "onion", "garlic", "crushed tomatoes"],
           "cookingMethod": " Cook spaghetti according to package instructions.  Brown ground beef in a large skillet over medium-high heat.  Add onion and garlic, and cook until softened.  Add crushed tomatoes and simmer for 10-15 minutes. Serve sauce over spaghetti.",
           "rating": 4.5
         },
         {
           "recipeName": "Chicken Tikka Masala",
+          "recipePic": "https://www.seriouseats.com/thmb/DbQHUK2yNCALBnZE-H1M2AKLkok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chicken-tikka-masala-for-the-grill-recipe-hero-2_1-cb493f49e30140efbffec162d5f2d1d7.JPG",
           "ingredients": ["chicken breasts", "yogurt", "spices (garam masala, cumin, paprika)", "tomato sauce", "cream"],
           "cookingMethod": "Marinate chicken in yogurt and spices for 30 minutes to 1 hour.  Grill or bake chicken until cooked through. In a saucepan, combine tomato sauce and cream and simmer for 10 minutes.Add cooked chicken to sauce and simmer for 5-10 minutes. Serve over rice.",
           "rating": 4.8
         },
         {
+         
           "recipeName": "Vegetable Stir Fry",
+          "recipePic": " https://www.onceuponachef.com/images/2017/02/Asian-Vegetable-Stir-Fry-3.jpg",
           "ingredients": ["broccoli", "carrots", "mushrooms", "onion", "soy sauce"],
           "cookingMethod": "Cut vegetables into bite-sized pieces. Heat oil in a wok or large skillet over high heat. Add vegetables and stir fry for 3-5 minutes. Add soy sauce and stir fry for an additional 1-2 minutes. Serve over rice or noodles.",
           "rating": 4.3
@@ -97,18 +107,21 @@
       "recipes":[
         {
             "recipeName": "Spaghetti Bolognese",
+            "recipePic": "https://www.errenskitchen.com/wp-content/uploads/2018/08/Spaghetti-Bolognese-1-3.jpg",
             "ingredients": ["spaghetti", "ground beef", "onion", "garlic", "crushed tomatoes"],
             "cookingMethod": " Cook spaghetti according to package instructions.  Brown ground beef in a large skillet over medium-high heat.  Add onion and garlic, and cook until softened.  Add crushed tomatoes and simmer for 10-15 minutes. Serve sauce over spaghetti.",
             "rating": 4.5
           },
           {
             "recipeName": "Chicken Tikka Masala",
+            "recipePic": "https://www.seriouseats.com/thmb/DbQHUK2yNCALBnZE-H1M2AKLkok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chicken-tikka-masala-for-the-grill-recipe-hero-2_1-cb493f49e30140efbffec162d5f2d1d7.JPG",
             "ingredients": ["chicken breasts", "yogurt", "spices (garam masala, cumin, paprika)", "tomato sauce", "cream"],
             "cookingMethod": "Marinate chicken in yogurt and spices for 30 minutes to 1 hour.  Grill or bake chicken until cooked through. In a saucepan, combine tomato sauce and cream and simmer for 10 minutes.Add cooked chicken to sauce and simmer for 5-10 minutes. Serve over rice.",
             "rating": 4.8
           },
           {
             "recipeName": "Vegetable Stir Fry",
+            "recipePic": " https://www.onceuponachef.com/images/2017/02/Asian-Vegetable-Stir-Fry-3.jpg",
             "ingredients": ["broccoli", "carrots", "mushrooms", "onion", "soy sauce"],
             "cookingMethod": "Cut vegetables into bite-sized pieces. Heat oil in a wok or large skillet over high heat. Add vegetables and stir fry for 3-5 minutes. Add soy sauce and stir fry for an additional 1-2 minutes. Serve over rice or noodles.",
             "rating": 4.3
@@ -126,18 +139,21 @@
       "recipes":[
         {
           "recipeName": "Spicy Chicken Curry",
+          "recipePic": "https://www.foodandwine.com/thmb/8YAIANQTZnGpVWj2XgY0dYH1V4I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/spicy-chicken-curry-FT-RECIPE0321-58f84fdf7b484e7f86894203eb7834e7.jpg",
           "ingredients": ["chicken thighs", "onion", "garlic", "ginger", "tomatoes", "curry powder", "coconut milk", "chili peppers", "cilantro"],
           "cookingMethod": "In a large pot or Dutch oven, heat oil over medium-high heat. Add chicken and brown on all sides. Remove chicken from pot and set aside. Add onion, garlic, and ginger to the pot and sauté until onion is translucent. Add curry powder and chili peppers and cook for 1-2 minutes. Add tomatoes and stir to combine.Return chicken to the pot and add enough coconut milk to cover chicken. Bring to a boil, then reduce heat and simmer for 30-45 minutes, or until chicken is cooked through. Garnish with chopped cilantro before serving.",
           "rating": 4.7
         },
         {
           "recipeName": "Mushroom Risotto",
+          "recipePic": "https://www.allrecipes.com/thmb/Pow6PE9UyushNDB4wutXNnmriX8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/85389-gourmet-mushroom-risotto-86-7a2d218f53e94ccfaecc69b6fd93cab8.jpg",
           "ingredients": ["arborio rice", "mushrooms", "onion", "garlic", "vegetable broth", "butter", "parmesan cheese", "white wine"],
           "cookingMethod": "In a large saucepan, sauté the onions and garlic until translucent.Add the mushrooms and continue cooking until they release their liquid and start to brown. Add the rice and stir until coated in the oil.Add a ladleful of hot vegetable broth and stir until it is absorbed. Continue adding broth, one ladleful at a time, stirring constantly, until the rice is cooked but still slightly firm. Stir in the butter, parmesan cheese, and white wine.Serve immediately.",
           "rating": 4.5
         },
         {
           "recipeName": "Classic Lasagna",
+          "recipePic": "https://i.ytimg.com/vi/ztQZJ6eyaFg/maxresdefault.jpg",
           "ingredients": ["lasagna noodles", "ground beef", "onion", "garlic", "canned tomatoes", "tomato paste", "ricotta cheese", "mozzarella cheese", "parmesan cheese"],
           "cookingMethod": " Cook lasagna noodles according to package directions. Drain and set aside.In a large skillet, brown ground beef with onion and garlic. Drain off any excess fat.  Add canned tomatoes and tomato paste to the skillet and stir to combine. In a separate bowl, mix together ricotta cheese, mozzarella cheese, and parmesan cheese. In a 9x13 inch baking dish, layer the lasagna noodles, meat sauce, and cheese mixture. Repeat layers until all ingredients are used, ending with a layer of cheese on top. Cover with foil and bake at 375°F for 25 minutes. Remove foil and bake for an additional 25-30 minutes, or until cheese is melted and bubbly.",
           "rating": 4.8
@@ -155,18 +171,21 @@
       "recipes": [
         {
           "recipeName": "Grilled Salmon",
+          "recipePic": "https://thekitchengirl.com/wp-content/uploads/Grilled-Salmon-a_19-1.jpg",
           "ingredients": ["salmon", "lemon", "olive oil", "salt", "pepper"],
           "cookingMethod": "Preheat grill to high heat. Brush salmon with olive oil and season with salt and pepper. Grill for 6-8 minutes per side, or until cooked through. Squeeze lemon over salmon before serving.",
           "rating": 4.8
         },
         {
           "recipeName": "Risotto with Mushrooms",
+          "recipePic": "https://www.allrecipes.com/thmb/Pow6PE9UyushNDB4wutXNnmriX8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/85389-gourmet-mushroom-risotto-86-7a2d218f53e94ccfaecc69b6fd93cab8.jpg",
           "ingredients": ["arborio rice", "mushrooms", "onion", "garlic", "parmesan cheese"],
           "cookingMethod": "In a large saucepan, sauté the onions and garlic until translucent. Add the rice and stir until coated in the oil. Add a ladleful of hot chicken broth and stir until it is absorbed. Continue adding broth, one ladleful at a time, stirring constantly, until the rice is cooked but still slightly firm. Stir in the mushrooms and parmesan cheese.",
           "rating": 4.6
         },
         {
           "recipeName": "Beef Tenderloin with Red Wine Sauce",
+          "recipePic": "https://images-gmi-pmc.edge-generalmills.com/190695cf-371e-4dfd-b47f-c0053b9496c5.jpg",
           "ingredients": ["beef tenderloin", "butter", "shallot", "garlic", "red wine"],
           "cookingMethod": "Preheat oven to 400°F. Season the beef with salt and pepper. Heat butter in an ovenproof skillet over medium-high heat. Add the beef and sear until browned on all sides. Transfer skillet to oven and roast beef for 15-20 minutes, or until cooked to desired doneness. Remove the beef from the skillet and let it rest. Add shallots and garlic to the skillet and cook until soft. Add red wine and cook until it is reduced by half. Season with salt and pepper. Slice the beef and serve with the red wine sauce.",
           "rating": 4.9
